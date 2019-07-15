@@ -1,0 +1,4 @@
+pale, bake
+pales, pale
+pale, bale
+pale, bae
